@@ -86,3 +86,4 @@ Bagian dalam fungsi `menu` menangani pilihan pengguna:
 Program ini adalah aplikasi manajemen data siswa yang sederhana. Pengguna dapat menambahkan, melihat, menghapus, dan mengubah data siswa melalui antarmuka teks. Program ini 
 menggunakan daftar dan kamus untuk menyimpan dan mengelola data.
 
+# Hasil Dari Output
