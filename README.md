@@ -87,3 +87,22 @@ Program ini adalah aplikasi manajemen data siswa yang sederhana. Pengguna dapat 
 menggunakan daftar dan kamus untuk menyimpan dan mengelola data.
 
 # Hasil Dari Output
+**Tambah Data**
+
+![Screenshot 2024-11-29 185753](https://github.com/user-attachments/assets/d643df3e-430a-4c3b-8462-76ff340b49c4)
+
+**Tampilkan Data**
+
+![Screenshot 2024-11-29 190040](https://github.com/user-attachments/assets/a669f421-f081-4767-b61c-a036e61336ca)
+
+**Hapus Data**
+
+![Screenshot 2024-11-29 190248](https://github.com/user-attachments/assets/89031dcf-e93a-432a-9ee3-09801bceca8d)
+
+**Ubah Data**
+
+![Screenshot 2024-11-29 190402](https://github.com/user-attachments/assets/00b39005-e6ba-48f6-adff-5c062a28f705)
+
+**Keluar**
+
+![Screenshot 2024-11-29 190524](https://github.com/user-attachments/assets/72857bff-06fe-44ef-9f35-85b14f4f9cb2)
